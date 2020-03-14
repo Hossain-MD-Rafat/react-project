@@ -1,0 +1,11 @@
+.main{
+    width: 100%;
+    display: flex;
+}
+.main img{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,38 @@
+.profile{
+    width: 48%;
+    height: 35%;
+    background-color: lightsteelblue;
+    padding: 10px;
+    display: flex;
+    box-sizing: border-box;
+    float: left;
+    margin: 5px;
+}
+.img{
+    width: 45%;
+    height: 90%;
+    box-sizing: border-box;
+}
+img{
+    width: 100%;
+}
+.info{
+    width: 40%;
+    margin-left: 25px;
+    box-sizing: border-box;
+}
+.info button{
+    padding: 10px 20px;
+    background-color: goldenrod;
+    font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    transition: 0.5s ease-in-out;
+}
+button:hover{
+    background-color: blue;
+    color: white;
+    
+}
